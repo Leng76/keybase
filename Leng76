@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am leng76 on github.
+  * I am leng76 (https://keybase.io/leng76) on keybase.
+  * I have a public key ASD5zFNwFOYZ3QV8vwX4EgO411f-DPS2Dv6fpOdahitNbAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f9cc537014e619dd057cbf05f81203b8d757fe0cf4b60efe9fa4e75a862b4d6c0a",
+      "host": "keybase.io",
+      "kid": "0120f9cc537014e619dd057cbf05f81203b8d757fe0cf4b60efe9fa4e75a862b4d6c0a",
+      "uid": "823dbe0a11494bf3237c71970c05a419",
+      "username": "leng76"
+    },
+    "merkle_root": {
+      "ctime": 1568880960,
+      "hash": "6a779b2228bb4abc373700f32141f038ef333d0af4b770734f91a285ba64758371ba1ab7a29b9c5a7776b13e2ff8b5031e5d4da2e7a3f8d57ab4a81da8e02dc6",
+      "hash_meta": "849a02c94b1ebfc92344d8a9569177a508558cfd48888ee46b7e9a3d9f46fd0d",
+      "seqno": 7595338
+    },
+    "service": {
+      "entropy": "OC0JshsaLkSnxLJ8jjz7aCP8",
+      "name": "github",
+      "username": "leng76"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568880986,
+  "expire_in": 504576000,
+  "prev": "3aad68b7350486f17857dd057f3aa039bf1efa63142f5c24ac91e6fdce41bace",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASD5zFNwFOYZ3QV8vwX4EgO411f-DPS2Dv6fpOdahitNbAo](https://keybase.io/leng76), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg+cxTcBTmGd0FfL8F+BIDuNdX/gz0tg7+n6TnWoYrTWwKp3BheWxvYWTESpcCBcQgOq1otzUEhvF4V90FfzqgOb8e+mMUL1wkrJHm/c5Bus7EIIy2SWmIEagm8PTVc+ypVn1iD2oK/tbRijV83Z5vOrWRAgHCo3NpZ8RAalsZ68Xdcv0rAtld4dND1ENm4ovxEtk3DYhVvVI882keXcMydMjU4W6u276oZ7t/IdTthIS6cvzOz6n6MIg8A6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICQxkGf2GYDyVA9DOiMmije+yV/IW07o49npd9l8U9dso3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/leng76
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id leng76
+```
